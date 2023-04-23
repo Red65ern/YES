@@ -1,0 +1,48 @@
+body{
+    color: black;
+    font-family: 'Times New Roman', Times, serif, serif;
+    background-color:lightskyblue;
+    font-style:oblique;
+    text-align:center;
+
+}
+
+.Pizzapic{
+padding:auto;
+width: 500px;%;
+}
+
+.pizzalist{
+margin-left:30rem;
+text-align:left;
+margin-left:38%;
+
+}
+
+.sub1{
+    text-align:left;
+}
+
+.sub2{
+    text-align:left;
+}
+
+.pizzavid{
+text-align:center;
+min-height:500%;
+
+}
+
+.footer{
+    height: 10px;
+}
+
+.foot{
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.paragraph{
+    text-align:left;
+   margin-left: 20%;
+
+}
