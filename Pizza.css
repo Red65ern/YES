@@ -9,7 +9,7 @@ body{
 
 .Pizzapic{
 padding:auto;
-width: 500px;%;
+width: 500px;
 }
 
 .pizzalist{
@@ -44,5 +44,11 @@ font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 .paragraph{
     text-align:left;
    margin-left: 20%;
+   margin-right:20%;
+   text-indent:10px;
 
+}
+
+.tableau{
+    margin-left:12.5%
 }
